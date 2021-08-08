@@ -10,7 +10,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-    <title>Ambulance SignIn | Aarogya Solutions</title>
+    <title>Ambulance SignIn</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="title" content="Ambulance SignIn | Aarogya Solutions" />
     <meta name="theme-color" content="#ffffff" />

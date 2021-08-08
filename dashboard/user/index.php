@@ -18,7 +18,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../assets/css/bootstrap.css" />
     <title>User | Dashboard</title>
-    <link rel="icon" href="../../logo.png" />
 </head>
 <nav class="py-3 bg-secondary">
     <center><div><span>USER DASHBOARD</span></div></center>

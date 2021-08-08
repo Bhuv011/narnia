@@ -1,5 +1,5 @@
 <?php
-$conn = new mysqli('localhost', 'root', '', 'innovate-trix') or die(mysqli_errno());
+$conn = new mysqli('localhost', 'root', '', 'xhacks') or die(mysqli_errno());
 date_default_timezone_set('Asia/Kolkata');
 
 //global hospital validation

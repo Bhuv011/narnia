@@ -9,12 +9,11 @@
 
 <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title><?php hospitalName(); ?> | Ambulify</title>
+<title><?php hospitalName(); ?> </title>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="theme-color" content="#ffffff">
 <link type="text/css" href="../../dashboard/vendor/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet">
 <link type="text/css" href="../../dashboard/assets/css/bootstrap.css" rel="stylesheet">
-<link rel="icon" href="../../logo.png" />
 </head>
 
 <body>

@@ -10,12 +10,11 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Sign Up | Aarogya Solutions</title>
+    <title>Sign Up</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="title" content="Sign Up | Aarogya Solutions" />
+    <meta name="title" content="Sign Up" />
     <meta name="theme-color" content="#ffffff" />
     <link type="text/css" href="dashboard/assets/css/bootstrap.css" rel="stylesheet" />
-    <link rel="icon" href="logo.png" />
 </head>
 
 <body>
